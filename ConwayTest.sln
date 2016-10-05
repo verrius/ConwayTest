@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConwayConsole", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ConwayGraphics|x64 = ConwayGraphics|x64
+		ConwayGraphics|x86 = ConwayGraphics|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.ConwayGraphics|x64.ActiveCfg = ConwayGraphics|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.ConwayGraphics|x64.Build.0 = ConwayGraphics|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.ConwayGraphics|x86.ActiveCfg = ConwayGraphics|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.ConwayGraphics|x86.Build.0 = ConwayGraphics|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Debug|x64.ActiveCfg = Debug|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Debug|x64.Build.0 = Debug|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Debug|x86.ActiveCfg = Debug|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Debug|x86.Build.0 = Debug|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Release|x64.ActiveCfg = Release|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Release|x64.Build.0 = Release|x64
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Release|x86.ActiveCfg = Release|Win32
+		{4C500D2D-28A0-43FC-A92B-BA2EC8D6BF78}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

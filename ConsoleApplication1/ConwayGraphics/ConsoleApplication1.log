@@ -1,0 +1,11 @@
+﻿  CellMap.cpp
+  ConwayGame.cpp
+  graphicsMain.cpp
+  main.cpp
+  Generating Code...
+CellMap.obj : error LNK2019: unresolved external symbol __imp___invalid_parameter referenced in function "public: bool __thiscall std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct Cell> > >::operator==(class std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct Cell> > > const &)const " (??8?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@UCell@@@std@@@std@@@std@@QBE_NABV01@@Z)
+ConwayGame.obj : error LNK2001: unresolved external symbol __imp___invalid_parameter
+CellMap.obj : error LNK2019: unresolved external symbol __imp___CrtDbgReportW referenced in function "public: bool __thiscall std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct Cell> > >::operator==(class std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct Cell> > > const &)const " (??8?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@UCell@@@std@@@std@@@std@@QBE_NABV01@@Z)
+ConwayGame.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+main.obj : error LNK2019: unresolved external symbol "void __cdecl graphicsMain(int,char * *)" (?graphicsMain@@YAXHPAPAD@Z) referenced in function _main
+C:\Users\Verrius\documents\visual studio 2015\Projects\ConsoleApplication1\ConwayGraphics\ConwayConsole.exe : fatal error LNK1120: 3 unresolved externals
